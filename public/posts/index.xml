@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 灰烬指南</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 灰烬指南</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test111</title>
+      <link>http://localhost:1313/posts/1/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“荣格这么想：每下降一层阶梯，时代便回溯而上，这是因为在自己的内部超越了‘自己个人历史’的‘从原始到近世的历史’的继起性重叠。也就是说，预知到在自己所经历学习的记忆之上的‘超记忆’，或是超越个人意识的‘集体潜意识’。”
+——京极夏彦《狂骨之梦》&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>test222</title>
+      <link>http://localhost:1313/posts/2/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“荣格这么想：每下降一层阶梯，时代便回溯而上，这是因为在自己的内部超越了‘自己个人历史’的‘从原始到近世的历史’的继起性重叠。也就是说，预知到在自己所经历学习的记忆之上的‘超记忆’，或是超越个人意识的‘集体潜意识’。”
+——京极夏彦《狂骨之梦》&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>西安|每每下降便将回溯而上</title>
+      <link>http://localhost:1313/posts/2408xian/</link>
+      <pubDate>Fri, 30 Aug 2024 18:33:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2408xian/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“荣格这么想：每下降一层阶梯，时代便回溯而上，这是因为在自己的内部超越了‘自己个人历史’的‘从原始到近世的历史’的继起性重叠。也就是说，预知到在自己所经历学习的记忆之上的‘超记忆’，或是超越个人意识的‘集体潜意识’。”
+——京极夏彦《狂骨之梦》&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

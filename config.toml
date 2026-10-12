@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hjzn.netlify.app/'
 languageCode = 'en-us'
 title = "灰烬指南"                        # site title                     # 网站标题
 theme = "papermod"

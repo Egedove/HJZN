@@ -1,0 +1,8 @@
+# Temporary Hugo output
+/public-new/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Hugo generated site
+/public/
